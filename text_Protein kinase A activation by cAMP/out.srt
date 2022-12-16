@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:09,280
+CAMP, produced by adenylate cyclase G-protein interactions, binds regulatory subunits of
+
+2
+00:00:09,280 --> 00:00:14,320
+PKA, protein kinase A, a tetramer.
+
+3
+00:00:14,320 --> 00:00:22,040
+CAMP binding causes the catalytic subunits of PKA to dissociate and activate target proteins
+
+4
+00:00:22,040 --> 00:00:24,720
+by phosphorylating them.
+
+5
+00:00:24,720 --> 00:00:30,120
+These catalytic subunits may perform this task many times, amplifying the original stimulus
+
+6
+00:00:30,120 --> 00:00:31,760
+signal.
+
+7
+00:00:31,760 --> 00:00:37,200
+The final cellular response may range from glycogen metabolism to controlling transcription.
+

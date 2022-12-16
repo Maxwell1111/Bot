@@ -1,0 +1,7 @@
+CAMP, produced by adenylate cyclase G-protein interactions, binds regulatory subunits of
+PKA, protein kinase A, a tetramer.
+CAMP binding causes the catalytic subunits of PKA to dissociate and activate target proteins
+by phosphorylating them.
+These catalytic subunits may perform this task many times, amplifying the original stimulus
+signal.
+The final cellular response may range from glycogen metabolism to controlling transcription.
